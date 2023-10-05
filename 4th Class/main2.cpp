@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//using global variable is bad practice
+//using global variable is bad practice  
 int age = 25;
 
 int main(){

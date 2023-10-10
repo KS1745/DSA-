@@ -24,6 +24,6 @@ int expand(string s,int i, int j) {
     }
 
 int main() {
-    string s = "Kartikay";
+    string s = "madam";
     cout << "Total number of palindrome substring present in this string is : "<<countSubstrings(s)<< endl;
 }
